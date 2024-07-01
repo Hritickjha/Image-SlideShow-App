@@ -7,18 +7,9 @@ This project is a simple image slideshow application built with Python. The appl
 - Display images in a loop.
 - Customizable time interval between images.
 ## Installation
-To run this application, you need to have Python installed on your system. Follow these steps to set up the application:
+To run this application, you must install Python on your system. Follow these steps to set up the application:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hritickjha/Image-SlideShow-App.git
-2. Navigate to the project directory:
-  ```bash
-  cd Image-SlideShow-App
-3. Install the required dependencies:
-    ```bash
-  pip install -r requirements.txt
-4. Run the application:
-  ```bash
-  python slideshow.py
-##Usage
-To use the application, place your images in the same directory as the script or specify the path to your images in the script. Run the script and the slideshow will begin, displaying each image for the specified time interval.
+## usage
+You can use the program by placing your images in the same directory as the script or by giving the script the path to your images. When the script is run, the slideshow will start and show each image for a predetermined time.
